@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922232111203",
+    "project_id": "amaral-ccd53",
+    "storage_bucket": "amaral-ccd53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922232111203:android:f7f4ed95ad175905c9b856",
+        "android_client_info": {
+          "package_name": "com.amaralapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922232111203-2eeln4gkfkaga8ihnck5ahrhst9ccnd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-DlnE_cALiz_aHBsctFccebLqKamHWcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922232111203-2eeln4gkfkaga8ihnck5ahrhst9ccnd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

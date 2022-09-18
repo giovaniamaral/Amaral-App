@@ -1,0 +1,32 @@
+{
+  "orientation": "portrait",
+  "icon": "./assets/icon.png",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "##347FEF'"
+  },
+  "expo": {
+    "name": "AmaralTech",
+    "slug": "amaralapp",
+    "version": "1.0.0",
+    "sdkVersion": "46.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+      
+      
+    ],
+    
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    
+    "android": {
+      "package": "com.amaralapp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.amaralapp"
+    }
+  }
+} 
